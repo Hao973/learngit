@@ -2,3 +2,4 @@ text file
 hao973
 123456a
 hao
+test2
